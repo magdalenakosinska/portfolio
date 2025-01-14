@@ -29,11 +29,21 @@ export const About = () => {
           </li>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
+              <h3>Cloud</h3>
+              <p>
+                Skilled in Azure cloud services, including deployment, scaling,
+                and managing applications in the cloud for improved performance
+                and reliability.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <div className={styles.aboutItemText}>
               <h3>Low-code Developer</h3>
               <p>
-                Skilled in designing low-code applications using platforms like
-                Power Platform, while ensuring custom frontend solutions when
-                needed.
+                Proficient in designing low-code applications using platforms
+                like Power Platform, while ensuring custom frontend solutions
+                when needed.
               </p>
             </div>
           </li>

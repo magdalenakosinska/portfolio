@@ -11,21 +11,30 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                website and applications
+                Passionate about building responsive web applications with React
+                and TypeScript, focusing on clean code and seamless user
+                experiences.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Fullstack Developer</h3>
-              <p>I have experience in developing fullstack applications</p>
+              <h3>API Integration</h3>
+              <p>
+                Experienced in integrating APIs to build dynamic, data-driven
+                web applications, ensuring smooth communication between frontend
+                and backend.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <h3>Low-code Developer</h3>
-              <p>I have worked with and designed low-code applications</p>
+              <p>
+                Skilled in designing low-code applications using platforms like
+                Power Platform, while ensuring custom frontend solutions when
+                needed.
+              </p>
             </div>
           </li>
         </ul>

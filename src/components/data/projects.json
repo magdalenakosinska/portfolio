@@ -11,14 +11,14 @@
     "title": "ChatGPT with login",
     "imageSrc": "assets/projects/chatgpt.png",
     "description": "An application inspired by ChatGPT with a login and sign-up page.",
-    "skills": ["React", "Typescript", "Node", "OpenAI"],
+    "skills": ["React", "Typescript", "Node", "OpenAI API"],
     "demo": "https://gpt-with-auth.netlify.app/login",
     "source": "https://github.com/magdalenakosinska/chat-gpt-with-authentication"
   },
   {
     "title": "Weather App",
     "imageSrc": "assets/projects/weatherapp.png",
-    "description": "This is a project that uses APIs to show weather conditions in any place in the world.",
+    "description": "A project that shows weather conditions in any place in the world.",
     "skills": ["React", "API"],
     "demo": "https://fancy-dodol-f19769.netlify.app/",
     "source": "https://github.com/magdalenakosinska/react-weather"

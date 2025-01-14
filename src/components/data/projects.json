@@ -1,26 +1,26 @@
 [
   {
     "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "assets/projects/entur.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Typescript", "API"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "ChatGPT with login",
+    "imageSrc": "assets/projects/chatgpt.png",
+    "description": "An application inspired by ChatGPT with a login and sign-up page.",
+    "skills": ["React", "Typescript", "Node", "OpenAI"],
+    "demo": "https://gpt-with-auth.netlify.app/login",
+    "source": "https://github.com/magdalenakosinska/chat-gpt-with-authentication"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Weather App",
+    "imageSrc": "assets/projects/weatherapp.png",
+    "description": "This is a project that uses APIs to show weather conditions in any place in the world.",
+    "skills": ["React", "API"],
+    "demo": "https://fancy-dodol-f19769.netlify.app/",
+    "source": "https://github.com/magdalenakosinska/react-weather"
   }
 ]

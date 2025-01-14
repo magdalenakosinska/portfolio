@@ -1,11 +1,8 @@
 :root {
-  /* Colours */
-  --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
-
-  /* Fonts */
+  --color-text: #fff; /* White text for clarity */
+  --color-primary: #d4a1b3; /* Soft muted pinkish rose */
+  --color-secondary: #9b7e89; /* Muted taupe with pink undertones */
+  --color-dark: #7b5f6b; /* Deep mauve for contrast and accents */
+  --color-bg: #a17c85; /* Dark muted rose-beige background */
   --font-roboto: "Roboto";
 }

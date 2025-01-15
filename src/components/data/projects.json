@@ -3,7 +3,7 @@
     "title": "ChatGPT with login",
     "imageSrc": "assets/projects/chatgpt.png",
     "description": "An application inspired by ChatGPT with a login and sign-up page.",
-    "skills": ["React", "Typescript", "Node", "OpenAI API"],
+    "skills": ["React", "Typescript", "Node", "API"],
     "demo": "https://gpt-with-auth.netlify.app/login",
     "source": "https://github.com/magdalenakosinska/chat-gpt-with-authentication"
   },
